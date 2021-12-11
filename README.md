@@ -4,7 +4,7 @@ Learn how to use Numpy and the Numpy SpeedSheet to turn your game scores to your
 
 Use this in conjunction to the video tutorial to learn how to read CSV files, calculate sums, understand axes and broadcasting, and more.
 
-**Video Tutorial**
+**Video Tutorial:**
 
 [https://youtu.be/0z9aaotXp4E]
 
@@ -22,19 +22,27 @@ All the commands in this tutorial and many others are available on the Numpy Spe
 
 **Python Only Version**:
 
-[python]
+In /python
 
 **Numpy Version**:
 
-[numpy]
+In /numpy
 
 **Final Version (version I use in real life):**
+
+In /numpy_final
 
 
 ### Final Version
 
-Run from your command line to show results from any csv file:
+Run from your command line:
 
-score.py data.csv
+**View Current Scores:**
+
+	show_scores.py data.csv
+
+**Calculate Average Scores:**
+
+	score.py data.csv
 
 
