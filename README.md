@@ -30,7 +30,7 @@ In /numpy
 
 **Final Version (version I use in real life):**
 
-In /numpy_final
+In /numpy-final
 
 
 ### Final Version
